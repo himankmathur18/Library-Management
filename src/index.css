@@ -8,6 +8,8 @@ body {
   background-image: url("https://media2.giphy.com/media/UWJtx7z2dcIJiRTvnj/200.webp?cid=ecf05e47koguomzrkmxfh4uh0a93ii039saai2xx1p12nmyw&ep=v1_gifs_search&rid=200.webp&ct=g");
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed; 
+
 }
 
 /* Ensure Tailwind CSS is installed and configured correctly */
