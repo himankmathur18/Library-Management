@@ -30,7 +30,7 @@ export default class Questions extends Component {
                     </button>
                     {this.state.isOpen && (
                         <div className=' font-bold text-xl  text-white '>
-                            <p className='border-2 border-black rounded-xl bg-gray-400 w-[30rem] ml-[3rem] text-center'>
+                            <p className='border-2 border-black rounded-xl bg-gray-400 w-[30rem] ml-[3rem] p-2 mb-1'>
                                 Morbi Vehicula Arcu Et Pellentesque Tincidunt.
                                 Nunc Ligula Nulla, Lobortis A Elementum Non, Vulputate Ut Arcu.
                                 Aliquam Erat Volutpat. Nullam Lacinia Felis.

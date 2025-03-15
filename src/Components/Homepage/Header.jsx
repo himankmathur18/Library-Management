@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Header extends Component {
     render() {
         return (
-            <div>
+            <div className='border-2 border-black rounded-xl m-[1.5rem] backdrop-blur-lg'>
                 <div className='font-bold text-5xl text-center p-10'>
                     <h1>Available Books</h1>
                 </div>
